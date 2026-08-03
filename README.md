@@ -1,2 +1,2 @@
 # atlas-project
-This project is a production ready project in which we are using Tools like Docker, Kubernetes , jenkis , ansible , terraform , GitHub Actions , CI/CD pipilene, AWS, Grafana , Helm , Argo CD .  
+Project Atlas is production ready cloud native platform built to simulate real-world enterprise applications. This Project is designed to demonstrate practices in Docker, kubernetes, jenkins, GitHub actions, ArgoCD, Grafana, Helm, AWS, Terraform, AWS and other cloud native technologies. 
