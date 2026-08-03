@@ -3,7 +3,7 @@ Project Atlas is production ready cloud native platform built to simulate real-w
 
 # project overview
 
-Project atlas is demonstrates a good practice of Docker, kubernets, jenkins, GitHub Actions, ArgoCd, Grafana, Helm, AWS and other cloud native technologies
+Project Atlas is a production-ready cloud-native platform designed to simulate a real-world enterprise application.
 
 # Objectives
 
@@ -11,9 +11,25 @@ An objective of project atlas is to make good hands-on experience of all cloud n
 
 # Technology stack
 
-A technology stack of project atlas is React, node.js, and all cloud native platform
+Frontend
+Backend
+Containerization
+Orchestration
+CI/CD
+Infrastructure
+Monitoring
+GitOps
+Security
 
 # Planned Architecture
+
+Frontend
+API Gateway
+Microservices
+Message Queue
+Database
+Monitoring
+Kubernetes Cluster
 
 # Repository Structure
 
@@ -22,5 +38,12 @@ A technology stack of project atlas is React, node.js, and all cloud native plat
 # Future Roadmap
 
 # Learning Goals
+
+- Build production-grade containerized applications.
+- Design scalable Kubernetes deployments.
+- Implement CI/CD pipelines.
+- Learn production troubleshooting techniques.
+- Apply DevOps best practices.
+
 
 # Author
